@@ -24,5 +24,6 @@
 /dzialka setwarp (afterowedzialki.setwarp) - Ustawia warp na działce
 /dzialka delwarp (afterowedzialki.delwarp) - Usuwa warp z działki
 /dzialka opiswarpa (afterowedzialki.warpdescription) - Zmienia opis warpa działki
+/dzialka zbiorka (afterowedzialki.zbiorka) - Zarządzanie zbiórkami na działkach
 
 Uprawnienie afterowedzialki.player daje dostęp do wszystkich komend gracza
